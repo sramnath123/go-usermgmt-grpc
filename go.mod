@@ -1,4 +1,4 @@
-module github.com/sramnath123/go-usermgmt-grpc
+module github.com/sramnath123/go-usermgmt-grpc/pkg/api
 
 go 1.20
 
