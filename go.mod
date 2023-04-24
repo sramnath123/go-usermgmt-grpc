@@ -1,4 +1,4 @@
-module example.com/go-usermgt-grpc
+module github.com/sramnath123/go-usermgmt-grpc
 
 go 1.20
 
